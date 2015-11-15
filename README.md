@@ -42,7 +42,7 @@ public class ValidationUtil {
 ```
 ##Note - 
 This validation class can be reused for other activity.
-#Step 4
+#Step 3
 Use the validation class on button click.
 ```java
 package javaant.com.android_ui_validation;
